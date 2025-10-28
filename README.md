@@ -33,6 +33,7 @@ monopoly/
 ├── data/
 │   └── spaces.csv         # Board spaces configuration data
 └── README.md              # Project documentation
+```
 
 ## Quick Start
 ```bash
